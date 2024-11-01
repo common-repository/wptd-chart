@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2021 by original authors @ fontello.com</metadata>
+<defs>
+<font id="wptd" horiz-adv-x="1000" >
+<font-face font-family="wptd" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="pie-chart-(2)" unicode="&#xe800;" d="M458 336v452c0 11-9 20-20 20-242 0-438-215-438-479s215-479 479-479c118 0 182 21 263 88 9 7 11 20 4 29l-288 369z m21-444c-241 0-437 196-437 437 0 234 166 425 375 437v-437c0-4 1-9 4-13l279-358c-66-51-121-66-221-66z m42 458h458c12 0 21 9 21 21 0 264-215 479-479 479-12 0-21-9-21-21v-458c0-12 9-21 21-21z m21 458c224-11 405-192 416-416h-416v416z m437-500h-416c-8 0-16-4-19-11-4-8-3-16 2-23l271-335c4-4 9-7 15-8 0 0 1 0 1 0 6 0 11 2 15 6 96 90 152 218 152 351 0 11-9 20-21 20z m-144-325l-229 284h352c-5-106-49-207-123-284z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>

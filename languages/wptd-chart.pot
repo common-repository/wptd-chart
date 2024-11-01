@@ -1,0 +1,229 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPTD Chart\n"
+"POT-Creation-Date: 2021-04-08 16:17+0530\n"
+"PO-Revision-Date: 2021-04-08 16:17+0530\n"
+"Last-Translator: \n"
+"Language-Team: wpthemedevelopers\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/admin-page.php:8 admin/admin-page.php:18 admin/wptd-settings.php:22
+#: admin/wptd-settings.php:23 inc/class.elementor.settings.php:88
+#: inc/class.elementor.settings.php:109 inc/class.elementor.settings.php:131
+msgid "WPTD Chart"
+msgstr ""
+
+#: admin/admin-page.php:11
+msgid "Live Demo"
+msgstr ""
+
+#: admin/wptd-settings.php:45
+#, php-format
+msgid "<a href=\"%s\">Settings</a>"
+msgstr ""
+
+#: inc/class.elementor.settings.php:87
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: inc/class.elementor.settings.php:89 inc/class.elementor.settings.php:110
+msgid "Elementor"
+msgstr ""
+
+#: inc/class.elementor.settings.php:108 inc/class.elementor.settings.php:130
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: inc/class.elementor.settings.php:132
+msgid "PHP"
+msgstr ""
+
+#: inc/class.wptd-chart.php:54
+msgid "WPTD"
+msgstr ""
+
+#: widgets/chart.php:34 widgets/chart.php:274
+msgid "Chart"
+msgstr ""
+
+#: widgets/chart.php:94 widgets/chart.php:206
+msgid "General"
+msgstr ""
+
+#: widgets/chart.php:96
+msgid "Default chart options."
+msgstr ""
+
+#: widgets/chart.php:102
+msgid "Chart Type"
+msgstr ""
+
+#: widgets/chart.php:106
+msgid "Pie Chart"
+msgstr ""
+
+#: widgets/chart.php:107
+msgid "Doughnut Chart"
+msgstr ""
+
+#: widgets/chart.php:108
+msgid "Bar Chart"
+msgstr ""
+
+#: widgets/chart.php:109
+msgid "Line Chart"
+msgstr ""
+
+#: widgets/chart.php:116
+msgid "Y-Axis Zero Beginning"
+msgstr ""
+
+#: widgets/chart.php:117
+msgid "This is option for set y-axis zero value beginning."
+msgstr ""
+
+#: widgets/chart.php:128
+msgid "Chart Fill"
+msgstr ""
+
+#: widgets/chart.php:129
+msgid "This is option for fill chart."
+msgstr ""
+
+#: widgets/chart.php:140
+msgid "Chart Responsive"
+msgstr ""
+
+#: widgets/chart.php:141
+msgid "This is option for responsive chart."
+msgstr ""
+
+#: widgets/chart.php:153
+msgid "Chart Label"
+msgstr ""
+
+#: widgets/chart.php:154
+msgid "Chart item label."
+msgstr ""
+
+#: widgets/chart.php:161
+msgid "Chart Value"
+msgstr ""
+
+#: widgets/chart.php:162
+msgid "Chart item value."
+msgstr ""
+
+#: widgets/chart.php:169
+msgid "Chart Color"
+msgstr ""
+
+#: widgets/chart.php:170
+msgid "Chart item color."
+msgstr ""
+
+#: widgets/chart.php:176
+msgid "Chart Details"
+msgstr ""
+
+#: widgets/chart.php:177
+msgid "This is options for put chart item labels and values."
+msgstr ""
+
+#: widgets/chart.php:182
+msgid "App"
+msgstr ""
+
+#: widgets/chart.php:187
+msgid "Web"
+msgstr ""
+
+#: widgets/chart.php:192
+msgid "SEO"
+msgstr ""
+
+#: widgets/chart.php:213
+msgid "Padding"
+msgstr ""
+
+#: widgets/chart.php:224
+msgid "Margin"
+msgstr ""
+
+#: widgets/chart.php:243
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/chart.php:261
+msgid "Background Color"
+msgstr ""
+
+#: widgets/chart.php:282
+msgid "Chart Width"
+msgstr ""
+
+#: widgets/chart.php:283
+msgid "Here you can specify chart width. Example 800"
+msgstr ""
+
+#: widgets/chart.php:302
+msgid "Chart Height"
+msgstr ""
+
+#: widgets/chart.php:303
+msgid "Here you can specify chart height. Example 300"
+msgstr ""
+
+#: widgets/chart.php:321
+msgid "Chart Legend Position"
+msgstr ""
+
+#: widgets/chart.php:325
+msgid "None"
+msgstr ""
+
+#: widgets/chart.php:326
+msgid "Top"
+msgstr ""
+
+#: widgets/chart.php:327
+msgid "Bottom"
+msgstr ""
+
+#: widgets/chart.php:328
+msgid "Left"
+msgstr ""
+
+#: widgets/chart.php:329
+msgid "Right"
+msgstr ""
+
+#: widgets/chart.php:337
+msgid "Dots Color"
+msgstr ""
+
+#: widgets/chart.php:338
+msgid "Here you can specify chart dots color. Example #3945ab"
+msgstr ""
+
+#: widgets/chart.php:349
+msgid "Line Color"
+msgstr ""
+
+#: widgets/chart.php:350
+msgid "Here you can specify chart ,line color. Example #3945ab"
+msgstr ""
